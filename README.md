@@ -13,7 +13,7 @@ Created by: Dipak Ghosh (DGreat49251)
   <li>6. To change colors on the screen, you msy use NEW COLORS button.</li>
 </ul>
 <hr>
-![image](https://user-images.githubusercontent.com/70680058/118974525-8dc72580-b990-11eb-9bf3-9d68eea668e1.png)
+<img src="https://user-images.githubusercontent.com/70680058/118974799-dc74bf80-b990-11eb-9160-f58e9b73c61a.png">
 <hr>
 <p align="center">DON'T FORGET TO PLAY THE GAME ATLEAST ONCE!</p>
 <hr>
